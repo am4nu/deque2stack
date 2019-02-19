@@ -91,29 +91,4 @@ public static void main(String[] args){
    
     
 }
-}y())
-        {
-            s1.push(s2.pop());
-        }
-        
-    }
-
-return (int)s1.pop();
-
-}
-
-public static void main(String[] args){
-
-   enqueuefront(new Integer(1));
-   enqueuefront(new Integer(2));
-   System.out.println(dequeuefront());
-   enqueuebehind(new Integer(3));
-   enqueuebehind(new Integer(4));
-   System.out.println(dequeuefront());
-   enqueuebehind(new Integer(5));
-   System.out.println(dequeuefront());
-
-   
-    
-}
 }
